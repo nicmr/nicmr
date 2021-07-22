@@ -24,8 +24,11 @@ At the moment, I'm writing my Computer Science B. Sc. thesis on state of the art
 - Past professional projects
   - [billing](https://github.com/nicmr/billing). An open source application I developed during my internship at NTT Data. Attributes AWS resource usage of a single billing account to multiple tenants by resource tags and generates billing invoices.
 - Past side projects you might want to take a look at
+  - [sdl2-specs-template](https://github.com/nicmr/sdl2-specs-template) A template / example to get you started with game development in Rust combining SDL2 and the ECS specs
   - 🎶 [fidelitas](https://github.com/nicmr/fidelitas): A Rust network audio player - use your phone or any other device in your network to control the music playing on your computer. Uses libvlc, actix-web, crossbeam and an [Elm](https://elm-lang.org/) frontend. The UI is nothing to write home about yet. Currently on hold due to focussing on other projects.
   - 📚 [runomicon](https://github.com/nicmr/runomicon/blob/master/src/main.rs) A simple Rust GUI application to manage "runepages" in the game League of Legends. On hold because I don't really play the game and my brother has found a tool that works decently well for him. Uses [iced](https://github.com/hecrj/iced) 🧊 and the League of Legends API.
+- Past uni projects
+  - Geovisualization projects developed with [@qunnlin](https://github.com/qunnlin): [various small geovisualizations](https://github.com/s4boys/gvi_project2) and an [air quality / particulate pollution visualization project](https://github.com/Qunnlin/feinstaupp) for the are of Stuttgart written in vue.js and purescript.
 - I'm interested in
   - virtualization: I've worked with Docker 🐳, Firecracker 🔥, Kubernetes, kata-containers, containerd/ctr
   - distributed systems
