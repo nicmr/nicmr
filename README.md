@@ -24,5 +24,7 @@ Currently working as a DevOps Engineer [@riskident](https://github.com/riskident
   - game engines: I've previously worked with [Unity](https://unity.com/), [Godot](https://godotengine.org/), and [amethyst](https://amethyst.rs/), but my current favourite is [Bevy](https://github.com/bevyengine/bevy).
   - functional programming: I like [Haskell](https://www.haskell.org/) and [Purescript](https://www.purescript.org/)
   - veganism and sustainability 🌱
+  - history and anthropology 🗿
+  - music, especially piano 🎹
   - and teaching!
 
