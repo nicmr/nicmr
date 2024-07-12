@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently working as a DevOps Engineer [@riskident](https://github.com/riskident), working on reliable infrastructure for fraud prevention software.
+Currently employed as a Rust Backend Engineer [@hotellistat](https://hotellistat.com/en), working on reliable and scalable backend services for a hotel Revenue Management Systems.
   
 - I'm interested in
   - All things Rust 🦀
