@@ -21,10 +21,10 @@ Currently employed as a Rust Backend Engineer [@hotellistat](https://hotellistat
   - All things Rust 🦀
   - virtualization, container runtimes, Kubernetes 🚢
   - distributed systems
-  - game engines: I've previously worked with [Unity](https://unity.com/), [Godot](https://godotengine.org/), and [amethyst](https://amethyst.rs/), but my current favourite is [Bevy](https://github.com/bevyengine/bevy).
+  - game engines: I've previously worked with [Unity](https://unity.com/), [Godot](https://godotengine.org/), and [amethyst](https://amethyst.rs/), my current favourite is [Bevy](https://github.com/bevyengine/bevy).
   - functional programming: I like [Haskell](https://www.haskell.org/) and [Purescript](https://www.purescript.org/)
   - veganism and sustainability 🌱
-  - history and anthropology 🗿
+  - history 🗿
   - music, especially piano 🎹
   - and teaching!
 
