@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Currently employed as a Rust Backend Engineer [@hotellistat](https://hotellistat.com/en), working on reliable and scalable backend services for a hotel revenue management systems.
+Currently employed as a Rust Backend Engineer [@hotellistat](https://hotellistat.com/en), working on reliable and scalable backend services for a hotel revenue management system.
   
 - I'm interested in
   - All things Rust 🦀
